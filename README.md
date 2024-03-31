@@ -19,5 +19,5 @@ As seguintes tecnologias foram usadas na construção do projeto:
 ### 📷 Prints:
 
 #### Desktop:
-<img src="https://i.ibb.co/JHFtmFM/mobile.gif" width="80%"></img> 
+<img src="https://i.ibb.co/JHFtmFM/mobile.gif](https://i.ibb.co/8b9sdb6/Captura-de-tela-2024-03-31-102115.pn)" width="80%"></img> 
 
